@@ -1,0 +1,39 @@
+body{
+
+}
+form{
+	width: 400px;
+	margin-left: 30%;
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+	border: 1px solid black;
+	coslor: rgb(201,201,201);
+	font-family: Georgia, serif;
+	
+}
+form table{
+	margin-left:20px;
+}
+form h2{
+	text-align: center;
+}
+#email{
+	width:88%;
+}
+#password{
+	width: 88%;
+}
+#rpassword{
+	width: 88%;
+}
+
+input[type="submit"] {
+	margin-top: 20px;
+	margin-left: 20%;
+	border: 2px solid rgb(192,192,192);
+	width: 60%;
+	height: 40px;
+}
+input {
+	margin-bottom: 10px;
+	border:1px solid white;
+}
